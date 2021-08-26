@@ -7,7 +7,7 @@
 <br>
 I'm super, I'm something of a LUA developer myself, and...
 
-- 🔭 16yo
+- 🎆 16yo
 - 〽️ I code for hobby and to improve myself
 
 **Languages:**  
