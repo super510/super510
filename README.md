@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<a href="https://discord.gg/2Np9bJW2m9">
+<a href="https://discord.gg/wVsCt44cey">
   <img align="left" alt="Super Discord" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/discord-round.svg" />
 </a>
 <br>
@@ -8,7 +8,7 @@
 I'm super, I'm something of a LUA developer myself, and...
 
 - 🔭 16yo
-- 😡 Hates elseif, forgets to add a wait to the while loop
+- 〽️ I code for hobby and to improve myself
 
 **Languages:**  
 
