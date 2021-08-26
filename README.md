@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 <a href="https://discord.gg/wVsCt44cey">
-  Discord
+  
   <img align="left" alt="Super Discord" width="21px" src="https://raw.githubusercontent.com/serhatalmez/serhatalmez/main/assets/discord-round.svg" />
 </a>
 <br>
