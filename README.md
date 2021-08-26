@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Ruqen, I'm something of a LUA developer myself, and...
+I'm Super, I'm something of a LUA developer myself, and...
 
 - 🔭 I'm currently working on trying to learn GOLang
 - ⚡ I'm trying to teach people why not to use const
